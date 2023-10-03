@@ -1,0 +1,15 @@
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\bin\Debug\net6.0\DotnetLabVar17.exe
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\bin\Debug\net6.0\DotnetLabVar17.deps.json
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\bin\Debug\net6.0\DotnetLabVar17.runtimeconfig.json
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\bin\Debug\net6.0\DotnetLabVar17.dll
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\bin\Debug\net6.0\DotnetLabVar17.pdb
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.csproj.AssemblyReference.cache
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.AssemblyInfoInputs.cache
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.AssemblyInfo.cs
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.csproj.CoreCompileInputs.cache
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.dll
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\refint\DotnetLabVar17.dll
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.pdb
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\DotnetLabVar17.genruntimeconfig.cache
+D:\univer\3course\1sem\c#_net\DotnetLabVar17\DotnetLabVar17\obj\Debug\net6.0\ref\DotnetLabVar17.dll

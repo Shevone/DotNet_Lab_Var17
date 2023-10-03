@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DotnetLabVar17.Models.Plant">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAABAAAAAAAAAAAAAQAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Subject\Plants\Abstract\Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotnetLabVar17.Models.Berry">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAEAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Subject\Plants\Berry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotnetLabVar17.Models.Fruit">
+    <Position X="8.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Subject\Plants\Fruit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotnetLabVar17.Models.Vegetable">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Subject\Plants\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotnetLabVar17.Models.OtherModels.Farmer">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Models\Subject\OtherModels\Farmer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DotnetLabVar17.Models.OtherModels.Harvest">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAABAACEAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Subject\OtherModels\Harvest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
