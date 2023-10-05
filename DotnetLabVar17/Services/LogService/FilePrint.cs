@@ -2,8 +2,10 @@
 
 public class FilePrint
 {
-    public FilePrint(string fileName)
+    // Класс отвечающий за печать в файл
+    public FilePrint(string? fileName)
     {
+        fileName ??= "log.txt";
         _filePath = fileName;
         if (!File.Exists(fileName))
         {
@@ -14,7 +16,8 @@ public class FilePrint
     private readonly string _filePath;
     public void FileLogPrint(string message)
     {
-        using StreamWriter writer = new StreamWriter(_filePath, true);
+        // Запись сообщения лога в файл
+        using var writer = new StreamWriter(_filePath, true);
         writer.WriteLine(message);
     }
 }

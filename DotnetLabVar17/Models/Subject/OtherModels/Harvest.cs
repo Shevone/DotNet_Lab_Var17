@@ -2,10 +2,11 @@
 
 public class Harvest 
 {
+    // Класс Уроожай
     public int Id { get; set; }
     private List<Farmer> Farmers { get; }
     public DateTime Date { get;}
-    public Dictionary<Plant, int> HarvestedСrop { get;}
+    public Dictionary<Plant, int> HarvestedСrop { get;}// Словарь - key : растени и value: количество сборов
 
     public Harvest(Farmer harvestMan)
     {
@@ -13,6 +14,7 @@ public class Harvest
         HarvestedСrop = new Dictionary<Plant, int>();
         Date = DateTime.Now;
     }
+    // Добавление фермера в сбор
     public bool AddFarmer(Farmer farmer)
     {
         if (Farmers.Count == 10)
@@ -22,6 +24,7 @@ public class Harvest
         Farmers.Add(farmer);
         return true;
     }
+    //Удаление фермера из сбора
     public bool RemoveFarmer(int farmerId)
     {
         foreach (var farmer in Farmers.Where(farmer => farmer.Id == farmerId))
@@ -31,5 +34,12 @@ public class Harvest
         }
 
         return false;
+    }
+    // Добавление растения в урожайный сбор
+    public bool AddPlant(Plant plant, int count)
+    {
+        if (HarvestedСrop.Keys.Contains(plant)) return false;
+        HarvestedСrop.Add(plant, count);
+        return true;
     }
 }   

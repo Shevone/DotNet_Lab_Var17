@@ -2,13 +2,18 @@
 
 public class Config
 {
-    public Config(string? logPath)
+    // Класс конфигурации
+    public Config(string? logPath, string? fruitsPath, string? vegetablePath, string? berriesPath)
     {
-        this._logPath = logPath;
-      
+        FruitsPath = fruitsPath;
+        VegetablePath = vegetablePath;
+        BerriesPath = berriesPath;
+        LogPath = logPath;
     }
 
-    private readonly string? _logPath;
-    public Exception? Exception { get; set; }
-    public string LogPath => new string(_logPath);
+    public  string? VegetablePath { get; } // путь до файла, содержащий список овощей
+    public  string? FruitsPath { get; }// путь до файла, содержащий список фруктов
+    public  string? BerriesPath { get; }// путь до файла, содержащий список ягод
+    public string? LogPath { get; } // путь до лог файла
+    public Exception? Exception { get; set; } //Ошибка
 }

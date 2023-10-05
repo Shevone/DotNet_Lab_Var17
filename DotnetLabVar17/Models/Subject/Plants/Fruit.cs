@@ -1,13 +1,19 @@
 ﻿namespace DotnetLabVar17.Models;
-
+[Serializable]
+// Атрибут необходим для сериализации в xml
 public class Fruit : Plant
 {
-    private string Taste { get; } // вкус
-    private bool IsEdiblePeel { get;  } // съедованя ли кожура
+    public string Taste { get; set; } // вкус
+    public bool IsEdiblePeel { get; set; } // съедованя ли кожура
 
-    public Fruit(string plantName, string color, string taste, bool isEdiblePeel) : base(plantName, color)
+    public Fruit()
+    {
+        
+    }
+    public Fruit(string plantName, string color, DateTime plantingDate, bool isRipped, string taste, bool isEdiblePeel) : base(plantName, color, plantingDate, isRipped)
     {
         Taste = taste;
         IsEdiblePeel = isEdiblePeel;
     }
+    
 }   
