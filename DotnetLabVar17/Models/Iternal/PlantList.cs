@@ -10,24 +10,20 @@ public class PlantList<T> : IPlantList<T>, IEnumerable<T> where T : Plant
     private readonly List<T> _list;
     private readonly Stack<int> _id;
 
-    private readonly IFileWriter<T>? _fileWriter;
+    private IFileWriter<T>? _fileWriter;
     public List<T> List => new (_list);
-    public string Type { get; set; }
+
+    public Type TypeOfPlant => typeof(T);
+
+    public Type FileWriter => _fileWriter?.GetType();
+
     public PlantList(string filePath)
     {
-        // В зависиости от расширения файла выбираем в какой тип будем записывтаь
-        if (filePath[^5..].ToLower() == ".json")
-        {
-            _fileWriter = new JsonWriter<T>(filePath);
-        }
-        else if (filePath[^4..].ToLower() == ".xml")
-        {
-            _fileWriter = new XmlWriter<T>(filePath);
-        }
         _list = new List<T>();
         _id = new Stack<int>();
         _id.Push(1);
-        Type = typeof(T).ToString();
+        // В зависиости от расширения файла выбираем в какой тип будем записывтаь
+        ChoseFileWriter(filePath);
     } 
     // Добавление
     public void Add(T item)
@@ -95,6 +91,27 @@ public class PlantList<T> : IPlantList<T>, IEnumerable<T> where T : Plant
         var i1 = Convert.ToInt32(a);
         var i2 = Convert.ToInt32(b);
         return i1 > i2;
+    }
+
+    private void ChoseFileWriter(string filePath)
+    {
+       
+        if (filePath[^5..].ToLower() == ".json")
+        {
+            if(!File.Exists(filePath)) File.Create(filePath).Close();
+            _fileWriter = new JsonWriter<T>(filePath);
+        }
+        else if (filePath[^4..].ToLower() == ".xml")
+        {
+            if(!File.Exists(filePath)) File.Create(filePath).Close();
+            _fileWriter = new XmlWriter<T>(filePath);
+        }
+        else
+        {
+            filePath = Directory.GetCurrentDirectory()[..^16] + "fruitsStorage.json";
+            File.Create(filePath);
+            _fileWriter = new JsonWriter<T>(filePath);
+        }
     }
     // Enumerator
     public IEnumerator<T> GetEnumerator()

@@ -1,0 +1,786 @@
+[
+  {
+    "Calories": 3,
+    "Id": 1,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:02:07.1582624+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 2,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:02:07.1589418+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 3,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:04:22.1877519+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 4,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:04:22.1879589+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 5,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:05:52.3915271+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 6,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:05:52.3916957+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 7,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:06:06.949791+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 8,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:06:06.9499564+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 9,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:07:21.6361172+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 10,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:07:21.636206+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 11,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:08:59.4629206+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 12,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:08:59.4631004+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 13,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:09:09.1881972+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 14,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:09:09.1884081+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 15,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:11:54.3617956+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 16,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:11:54.3619703+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 17,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:13:39.2599088+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 18,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:13:39.260096+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 19,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:15:06.8401842+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 20,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:15:06.840359+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 21,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:28.9568064+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 22,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:28.9570178+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 23,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:40.0391759+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 24,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:40.0393456+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 25,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:17:15.7086855+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 26,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:17:15.7088956+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 27,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:18:55.6096226+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 28,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:18:55.6098584+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 29,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:04.4368781+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 30,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:04.4370409+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 31,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:06.7497883+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 32,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:06.7498781+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 33,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:14.7124118+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 34,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:14.7127001+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 35,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:27.1127831+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 36,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:27.1130627+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 37,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:36.3288061+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 38,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:36.3289765+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 39,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:43.4064284+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 40,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:43.4065907+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 41,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:47.8062127+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 42,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:47.8064731+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 43,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:58.2068074+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 44,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:58.2070092+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 45,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:27:36.515082+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 46,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:27:36.5154632+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 47,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:31.8121976+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 48,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:31.8124051+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 49,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:57.5223121+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 50,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:57.5224802+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 51,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:26.1754552+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 52,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:26.1757662+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 53,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:37.7079638+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 54,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:37.7082281+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 55,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:44.7648789+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 56,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:44.7651777+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 57,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:55.4258251+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 58,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:55.4259892+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 59,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:36:52.9936139+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 60,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:36:52.9938382+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 61,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:24.7099473+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 62,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:24.710153+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 63,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:39.588316+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 64,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:39.5885822+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 65,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:09.3138595+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 66,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:09.3141234+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 67,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:24.8351398+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 68,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:24.8353545+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 69,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:14.5613424+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 70,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:14.5615138+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 71,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:26.0334698+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 72,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:26.0340899+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 73,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:34.8050751+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 74,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:34.8052417+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 75,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:10.8670026+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 76,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:10.8672215+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 77,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:43.5366494+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 78,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:43.5368747+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 79,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:15.5301871+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 80,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:15.5305239+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 81,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:36.412885+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 82,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:36.4130538+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 83,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:50:42.9550953+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 84,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:50:42.9552637+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 85,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:52:40.5896851+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 86,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:52:40.5898637+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 87,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:00:49.9799622+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 88,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:00:49.9803147+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 89,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:03:30.4518959+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 90,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:03:30.452063+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 91,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:00.1107045+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 92,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:00.1108986+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 93,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:11.7568461+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 94,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:11.7570472+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 95,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:17.5284371+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 96,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:17.5286292+05:00"
+  },
+  {
+    "Calories": 3,
+    "Id": 97,
+    "PlantName": "\u0411\u0430\u043A\u0430\u043B\u0430\u0436\u0430\u043D",
+    "Color": "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:25.6440072+05:00"
+  },
+  {
+    "Calories": 4,
+    "Id": 98,
+    "PlantName": "\u041E\u0433\u0443\u0440\u0435\u0446",
+    "Color": "\u0437\u0435\u043B\u0451\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:25.6441874+05:00"
+  }
+]

@@ -26,10 +26,16 @@ public class Logger : ILogger
 
     public void OnHarvestCreating(Harvest newHarvest)
     {
+        var resultString = $"{DateTime.Now}| Создан новый урожай id : {newHarvest.Id}";
+        PrintMethods?.Invoke(resultString.ToString());
+    }
+
+    public void HarvestInfo(Harvest newHarvest)
+    {
         // Создание урожайного сбора
         var resultString = new StringBuilder();
         resultString.Append("==============================\n");
-        resultString.Append($"{newHarvest.Date}| Собарн новый урожай: {newHarvest.Id}:\n");
+        resultString.Append($"{newHarvest.Date}| Урожай: {newHarvest.Id}:\n");
         foreach (var crop in newHarvest.HarvestedСrop)
         {
             resultString.Append($"{crop.Key.PlantName} - {crop.Value}\n");
@@ -84,11 +90,29 @@ public class Logger : ILogger
         PrintMethods?.Invoke(res);
     }
 
-    public void OnSortEnd(int count)
+    public void OnSortEnd(PlantType type, int count)
     {
         // Логирование завершения сортировки кастомной коллекции
         // Принимает на вход количесвто переставленных элементов
-        var res =  $"{DateTime.Now}| Конец сортировки сортировки. Перемещено элементов: {count}";
+        var res =  $"{DateTime.Now}| Конец сортировки {type.ToString()}. Количесвто перестановок: {count}";
+        PrintMethods?.Invoke(res);
+    }
+
+    public void OnFarmerToHarm(Harvest harv, Farmer farm)
+    {
+        var res = $"{DateTime.Now}| В урожай {harv.Id} от {harv.Date} добавлен {farm.Name}. Его колесчто урожаев {farm.HarvestCount}";
+        PrintMethods?.Invoke(res);
+    }
+
+    public void OnPlantToHarv(Harvest harv, Plant plant, int count)
+    {
+        var res =$"{DateTime.Now}| В урожай {harv.Id} от {harv.Date} добавлен {plant.PlantName} в количестве {count}";
+        PrintMethods?.Invoke(res);
+    }
+
+    public void OnFarmerRemoveFromHarv(Harvest harv, Farmer farm)
+    {
+        var res = $"{DateTime.Now}| Из урожая {harv.Id} от {harv.Date} удалейн {farm.Name}. Его колесчто урожаев {farm.HarvestCount}";
         PrintMethods?.Invoke(res);
     }
 }

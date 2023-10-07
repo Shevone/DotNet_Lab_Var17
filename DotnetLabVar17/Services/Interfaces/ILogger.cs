@@ -15,5 +15,11 @@ public interface ILogger
     void OnCustomException(FarmerExistException ex);
     void OnException(Exception exception);
     void OnSortStart();
-    void OnSortEnd(int count);
+    void OnSortEnd(PlantType type,int count);
+    void OnFarmerToHarm(Harvest harv, Farmer farm);
+    void OnPlantToHarv(Harvest harv, Plant plant, int count);
+    void OnFarmerRemoveFromHarv(Harvest harvest, Farmer farmer);
+
+    public void HarvestInfo(Harvest newHarvest);
+    
 }

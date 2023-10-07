@@ -4,89 +4,890 @@
     "IsEdiblePeel": true,
     "Id": 1,
     "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:51:49.4103351+05:00"
+    "PlantingDate": "2023-10-07T16:02:07.1577696+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 2,
     "PlantName": "\u0413\u0440\u0443\u0448\u0430",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:51:49.4105848+05:00"
+    "PlantingDate": "2023-10-07T16:02:07.1582612+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 3,
     "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:55:21.3984157+05:00"
+    "PlantingDate": "2023-10-07T16:04:22.1875167+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 4,
     "PlantName": "\u0413\u0440\u0443\u0448\u0430",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:55:21.39878+05:00"
+    "PlantingDate": "2023-10-07T16:04:22.1877512+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 5,
     "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:57:17.83108+05:00"
+    "PlantingDate": "2023-10-07T16:05:52.3912892+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 6,
     "PlantName": "\u0413\u0440\u0443\u0448\u0430",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:57:17.8315116+05:00"
+    "PlantingDate": "2023-10-07T16:05:52.3915265+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 7,
     "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:58:10.5270165+05:00"
+    "PlantingDate": "2023-10-07T16:06:06.9495598+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 8,
     "PlantName": "\u0413\u0440\u0443\u0448\u0430",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:58:10.527279+05:00"
+    "PlantingDate": "2023-10-07T16:06:06.9497903+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 9,
     "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:58:49.8258605+05:00"
+    "PlantingDate": "2023-10-07T16:07:21.6359993+05:00"
   },
   {
     "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
     "IsEdiblePeel": true,
     "Id": 10,
     "PlantName": "\u0413\u0440\u0443\u0448\u0430",
-    "Color": "p\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
     "IsRipped": false,
-    "PlantingDate": "2023-10-05T20:58:49.8262328+05:00"
+    "PlantingDate": "2023-10-07T16:07:21.6361168+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 11,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:08:59.4626937+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 12,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:08:59.46292+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 13,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:09:09.1879516+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 14,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:09:09.1881965+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 15,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:11:54.3615661+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 16,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:11:54.3617949+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 17,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:13:39.2595816+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 18,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:13:39.2599081+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 19,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:15:06.8399275+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 20,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:15:06.8401835+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 21,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:28.9565018+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 22,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:28.9568056+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 23,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:40.0389034+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 24,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:16:40.0391753+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 25,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:17:15.7083529+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 26,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:17:15.7086848+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 27,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:18:55.6093882+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 28,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:18:55.609622+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 29,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:04.4366451+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 30,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:04.4368774+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 31,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:06.7496687+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 32,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:06.7497879+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 33,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:14.7120091+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 34,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:14.7124107+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 35,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:27.112416+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 36,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:27.1127821+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 37,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:36.3285681+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 38,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:36.3288056+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 39,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:43.406192+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 40,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:21:43.4064278+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 41,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:47.8059164+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 42,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:47.8062119+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 43,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:58.2065477+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 44,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:26:58.2068065+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 45,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:27:36.5146941+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 46,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:27:36.5150809+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 47,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:31.8119524+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 48,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:31.812197+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 49,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:57.5220781+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 50,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:31:57.5223115+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 51,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:26.1750448+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 52,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:26.1754541+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 53,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:37.7075741+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 54,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:37.7079627+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 55,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:44.7644581+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 56,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:44.7648779+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 57,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:55.4255974+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 58,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:34:55.4258245+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 59,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:36:52.9933268+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 60,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:36:52.9936133+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 61,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:24.7096852+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 62,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:24.7099464+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 63,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:39.5879394+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 64,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:39:39.5883151+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 65,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:09.313471+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 66,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:09.3138583+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 67,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:24.8348048+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 68,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:40:24.8351385+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 69,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:14.5611081+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 70,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:14.5613418+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 71,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:26.0328796+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 72,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:26.0334687+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 73,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:34.8048397+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 74,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:41:34.8050745+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 75,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:10.866768+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 76,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:10.867002+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 77,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:43.5363727+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 78,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:44:43.5366487+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 79,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:48:37.9533152+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 80,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:15.5297348+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 81,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:15.5301859+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 82,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:36.4126592+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 83,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:49:36.4128844+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 84,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:50:42.9548659+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 85,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:50:42.9550947+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 86,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:52:40.58946+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 87,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T16:52:40.5896845+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 88,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:00:49.9795639+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 89,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:00:49.979961+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 90,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:03:30.451666+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 91,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:03:30.4518952+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 92,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:00.1104616+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 93,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:00.1107039+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 94,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:11.7566159+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 95,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:04:11.7568455+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 96,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:17.5282086+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 97,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:17.5284363+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 98,
+    "PlantName": "\u042F\u0431\u043B\u043E\u043A\u043E",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:25.6437675+05:00"
+  },
+  {
+    "Taste": "\u0421\u043B\u0430\u0434\u043A\u0438\u0439",
+    "IsEdiblePeel": true,
+    "Id": 99,
+    "PlantName": "\u0413\u0440\u0443\u0448\u0430",
+    "Color": "\u0437\u0435\u043B\u0435\u043D\u044B\u0439",
+    "IsRipped": false,
+    "PlantingDate": "2023-10-07T17:05:25.6440064+05:00"
   }
 ]

@@ -6,5 +6,5 @@ namespace DotnetLabVar17.Repository;
 public interface IFileWriter<T>
 {
     void FileWrite(List<T> list);
-    public List<T>? LoadDataFromFile();
+    List<T>? LoadDataFromFile();
 }

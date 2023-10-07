@@ -14,6 +14,7 @@ public class BaseService
     private DbRepository _dbRepository; // репозиторий бд
     private ILogger _logger; // Интерфейс логирования
     private Mutex _mutex; // Мьютекс для многопточных методов
+    
 
     public BaseService(ILogger logger, DbRepository dbRepository)
     {
@@ -21,8 +22,36 @@ public class BaseService
         _dbRepository = dbRepository;
         Start();
     }
+    public void AddPlantToHarvest(int harvestId, PlantType type, int plantId, int count)
+    {
+        var dict = _dbRepository.AddPlantToHarvest(harvestId,type,plantId,count);
+        if (dict != null)
+        {
+            _logger.OnPlantToHarv((Harvest)dict["Harvest"], (Plant)dict["Plant"], count);
+        }
+    }
 
-    
+    public void AddFarmerToHarvest(int harvestId, int farmerId)
+    {
+        var dict =_dbRepository.AddFarmerToHarvest(harvestId,farmerId);
+        _logger.OnFarmerToHarm((Harvest)dict["Harvest"], (Farmer)dict["Farmer"]);
+    }
+
+    public void RemoveFarmerFromHarv(int harvId, int farmerId)
+    {
+        var dict =_dbRepository.RemoveFarmerFromHarv(harvId, farmerId);
+        if (dict != null)
+        {
+            _logger.OnFarmerRemoveFromHarv((Harvest)dict["Harvest"], (Farmer)dict["Farmer"]);
+        }
+    }
+
+    public void HarvestInfo(int harvId)
+    {
+        var h = _dbRepository.GetHarvest(harvId);
+        if(h != null) _logger.HarvestInfo(h);
+        
+    }
     // Передача нового растения и логрование 
     public void CreatePlant(Plant newPlant)
     {
@@ -51,7 +80,7 @@ public class BaseService
         _logger.OnHarvestCreating(newHarvest);
     }
     // Метод вызываемый на старте
-    public void Start()
+    private void Start()
     {
         var countOfLoad = _dbRepository.LoadFromFile();
         _logger.OnStartWorking(countOfLoad);
@@ -77,15 +106,18 @@ public class BaseService
         return !res;
     }
     // Вызов сортировки в новом потоке
-    public void PlantSort<TKey>(PlantType plantType, Func<Plant, TKey> sortParam)
+    public void  PlantSort<TKey>(PlantType plantType, Func<Plant, TKey> sortParam)
     {
+       
         new Thread(StartSort).Start();// Открываем поток
+        
         
         void StartSort()
         {
+            _logger.OnPlantSorting(plantType);
             // Занмаем мьютекс
             _mutex.WaitOne();
-            _logger.OnPlantSorting(plantType);
+            
             var countDisplacedElements = 0;
             switch (plantType)
             {
@@ -102,12 +134,15 @@ public class BaseService
                 default:
                     throw new ArgumentOutOfRangeException(nameof(plantType), plantType, null);
             }
-            _logger.OnSortEnd(countDisplacedElements);
+            
             // Освобождаем мьютекс после выполнения
             _mutex.ReleaseMutex();
+            _logger.OnSortEnd(plantType, countDisplacedElements);
+            
+            
         }
     }
-    
+        
 }
 public enum PlantType{
     Vegetables,
